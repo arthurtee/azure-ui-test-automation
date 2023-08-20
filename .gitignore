@@ -1,0 +1,10 @@
+# Project related
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/playwright/.auth
+/resource/
+
+# macOS
+.DS_Store
